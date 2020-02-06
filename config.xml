@@ -18,14 +18,13 @@
 	<variable name="ANDROID_SUPPORT_VERSION" value="28.0.0"/>
 	</plugin>
 	
-	<!-- <plugin name="cordova-universal-links-plugin" spec="https://github.com/flipflopapp/cordova-universal-links-plugin" />
+	<plugin name="cordova-universal-links-plugin" spec="https://github.com/flipflopapp/cordova-universal-links-plugin" />
     <universal-links>
       <host name="flowoflearning.com" event="deeplink">
         <path url="*" />
       </host>
       <ios-team-id value="8WQD59B3Y6" />
     </universal-links>
-	</plugin> -->
 	
 
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.1.1" />
